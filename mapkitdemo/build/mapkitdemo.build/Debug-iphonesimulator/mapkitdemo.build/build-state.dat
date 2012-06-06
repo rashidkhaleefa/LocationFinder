@@ -1,0 +1,278 @@
+Tmapkitdemo
+v7
+r0
+t360673153.233600
+cCheck dependencies
+cProcessInfoPlistFile /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/Info.plist mapkitdemo-Info.plist
+cCompileXIB /Users/csscorp/Desktop/mapkitdemo/MainWindow.xib
+cCompileXIB /Users/csscorp/Desktop/mapkitdemo/mapkitdemoViewController.xib
+cProcessPCH /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-duuucfxhpiupxjhcciggmlngfloh/mapkitdemo_Prefix.pch.gch mapkitdemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/main.o /Users/csscorp/Desktop/mapkitdemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/mapkitdemoAppDelegate.o /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/mapkitdemoViewController.o /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/mapkitdemo normal i386
+cGenerateDSYMFile /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app.dSYM /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/mapkitdemo
+cTouch /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.h
+c000000004FCF205800000000000001F4
+t1338974296
+s500
+i<UIKit/UIKit.h>
+
+N/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m
+c000000004FCE07650000000000000AA5
+t1338902373
+s2725
+i"mapkitdemoAppDelegate.h"
+i"mapkitdemoViewController.h"
+
+N/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.h
+c000000004FCF37AE0000000000000242
+t1338980270
+s578
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m
+c000000004FCF38000000000000000BA9
+t1338980352
+s2985
+i"mapkitdemoViewController.h"
+
+N/Users/csscorp/Desktop/mapkitdemo/MainWindow.xib
+c000000004FCE07650000000000004E4D
+t1338902373
+s20045
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app
+t1338980353
+s238
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app.dSYM
+t1338980353
+s102
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/Info.plist
+t1338907136
+s603
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/MainWindow.nib
+t1338907136
+s1129
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/PkgInfo
+t1338907136
+s8
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/mapkitdemo
+t1338980353
+s19060
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/mapkitdemoViewController.nib
+t1338980271
+s2356
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/main.o
+t1338907138
+s6292
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/mapkitdemo.LinkFileList
+c000000004FCE1A000000000000000196
+t1338907136
+s406
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/mapkitdemoAppDelegate.o
+t1338980271
+s52284
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/mapkitdemoViewController.o
+t1338980353
+s48444
+
+N/Users/csscorp/Desktop/mapkitdemo/main.m
+c000000004FCE0765000000000000016D
+t1338902373
+s365
+i<UIKit/UIKit.h>
+
+N/Users/csscorp/Desktop/mapkitdemo/mapkitdemoViewController.xib
+c000000004FCF36490000000000006F0A
+t1338979913
+s28426
+
+N/Users/csscorp/Desktop/mapkitdemo/mapkitdemo_Prefix.pch
+c000000004FCE076500000000000000BD
+t1338902373
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-duuucfxhpiupxjhcciggmlngfloh/mapkitdemo_Prefix.pch.gch
+t1338907138
+s10360536
+
+Nmapkitdemo-Info.plist
+c000000004FCE0765000000000000038D
+t1338902373
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies360673152#360673152#0(0"0(0#1#0"2542186992#0"0#
+
+CCompileC build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/main.o /Users/csscorp/Desktop/mapkitdemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s360599938.258551
+e360599938.341430
+r1
+xCompileC
+xbuild/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/main.o
+x/Users/csscorp/Desktop/mapkitdemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/csscorp/Desktop/mapkitdemo/main.m360599938#360599938#0(0"0(0#0#40"/Users/csscorp/Desktop/mapkitdemo/main.m2542186992#1919"    cd /Users/csscorp/Desktop/mapkitdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-generated-files.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-own-target-headers.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-all-target-headers.hmap -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-project-headers.hmap -F/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator -I/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/include -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/DerivedSources/i386 -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/DerivedSources -include /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-duuucfxhpiupxjhcciggmlngfloh/mapkitdemo_Prefix.pch -c /Users/csscorp/Desktop/mapkitdemo/main.m -o /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/main.o0#
+
+CCompileC build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/mapkitdemoAppDelegate.o /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s360673071.288522
+e360673071.468339
+r1
+xCompileC
+xbuild/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/mapkitdemoAppDelegate.o
+x/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m360673071#360673071#0(0"0(0#0#65"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m2542186992#1961"    cd /Users/csscorp/Desktop/mapkitdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-generated-files.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-own-target-headers.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-all-target-headers.hmap -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-project-headers.hmap -F/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator -I/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/include -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/DerivedSources/i386 -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/DerivedSources -include /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-duuucfxhpiupxjhcciggmlngfloh/mapkitdemo_Prefix.pch -c /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m -o /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/mapkitdemoAppDelegate.o0#
+
+CCompileC build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/mapkitdemoViewController.o /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s360673152.850238
+e360673153.161733
+r1
+xCompileC
+xbuild/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/mapkitdemoViewController.o
+x/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360673152#360673153#0(0"0(0#0#68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m2542186992#1967"    cd /Users/csscorp/Desktop/mapkitdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-generated-files.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-own-target-headers.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-all-target-headers.hmap -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-project-headers.hmap -F/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator -I/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/include -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/DerivedSources/i386 -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/DerivedSources -include /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-duuucfxhpiupxjhcciggmlngfloh/mapkitdemo_Prefix.pch -c /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m -o /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/mapkitdemoViewController.o0#
+
+CCompileXIB /Users/csscorp/Desktop/mapkitdemo/MainWindow.xib
+s360599936.089802
+e360599936.836452
+r1
+xCompileXIB
+x/Users/csscorp/Desktop/mapkitdemo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib360599936#360599936#0(0"0(0#0#48"/Users/csscorp/Desktop/mapkitdemo/MainWindow.xib2542186992#558"    cd /Users/csscorp/Desktop/mapkitdemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/MainWindow.nib /Users/csscorp/Desktop/mapkitdemo/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/csscorp/Desktop/mapkitdemo/mapkitdemoViewController.xib
+s360673070.509346
+e360673071.288050
+r1
+xCompileXIB
+x/Users/csscorp/Desktop/mapkitdemo/mapkitdemoViewController.xib
+lSLF07#2@39"CompileXIB mapkitdemoViewController.xib360673070#360673071#0(0"0(0#0#62"/Users/csscorp/Desktop/mapkitdemo/mapkitdemoViewController.xib2542186992#586"    cd /Users/csscorp/Desktop/mapkitdemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/mapkitdemoViewController.nib /Users/csscorp/Desktop/mapkitdemo/mapkitdemoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app.dSYM /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/mapkitdemo
+s360673153.203508
+e360673153.228765
+r1
+xGenerateDSYMFile
+x/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app.dSYM
+x/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/mapkitdemo
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/mapkitdemo.app.dSYM build/Debug-iphonesimulator/mapkitdemo.app/mapkitdemo360673153#360673153#0(0"0(0#0#87"/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/mapkitdemo2542186992#377"    cd /Users/csscorp/Desktop/mapkitdemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/mapkitdemo -o /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app.dSYM0#
+
+CLd /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/mapkitdemo normal i386
+s360673153.161878
+e360673153.203363
+r1
+xLd
+x/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/mapkitdemo
+xnormal
+xi386
+lSLF07#2@92"Link /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/mapkitdemo360673153#360673153#0(0"0(0#0#0"2542186992#932"    cd /Users/csscorp/Desktop/mapkitdemo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator -F/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator -filelist /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/Objects-normal/i386/mapkitdemo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/mapkitdemo0#
+
+CProcessInfoPlistFile /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/Info.plist mapkitdemo-Info.plist
+s360599936.082867
+e360599936.089666
+r1
+xProcessInfoPlistFile
+x/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/Info.plist
+xmapkitdemo-Info.plist
+lSLF07#2@29"Process mapkitdemo-Info.plist360599936#360599936#0(0"0(0#0#55"/Users/csscorp/Desktop/mapkitdemo/mapkitdemo-Info.plist2542186992#473"    cd /Users/csscorp/Desktop/mapkitdemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility mapkitdemo-Info.plist -genpkginfo /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app/Info.plist0#
+
+CProcessPCH /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-duuucfxhpiupxjhcciggmlngfloh/mapkitdemo_Prefix.pch.gch mapkitdemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s360599937.076501
+e360599938.258335
+r1
+xProcessPCH
+x/var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-duuucfxhpiupxjhcciggmlngfloh/mapkitdemo_Prefix.pch.gch
+xmapkitdemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile mapkitdemo_Prefix.pch360599937#360599938#0(0"0(0#0#55"/Users/csscorp/Desktop/mapkitdemo/mapkitdemo_Prefix.pch2542186992#1813"    cd /Users/csscorp/Desktop/mapkitdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-generated-files.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-own-target-headers.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-all-target-headers.hmap -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/mapkitdemo-project-headers.hmap -F/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator -I/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/include -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/DerivedSources/i386 -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphonesimulator/mapkitdemo.build/DerivedSources -c /Users/csscorp/Desktop/mapkitdemo/mapkitdemo_Prefix.pch -o /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-duuucfxhpiupxjhcciggmlngfloh/mapkitdemo_Prefix.pch.gch0#
+
+CTouch /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app
+s360673153.228892
+e360673153.233526
+r1
+xTouch
+x/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app
+lSLF07#2@82"Touch /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app360673153#360673153#0(0"0(0#0#0"2542186992#271"    cd /Users/csscorp/Desktop/mapkitdemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphonesimulator/mapkitdemo.app0#
+

@@ -1,0 +1,442 @@
+Tmapkitdemo
+v7
+r0
+t360595705.998419
+cCheck dependencies
+cCpResource build/Debug-iphoneos/mapkitdemo.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/Info.plist mapkitdemo-Info.plist
+cCompileXIB /Users/csscorp/Desktop/mapkitdemo/MainWindow.xib
+cCompileXIB /Users/csscorp/Desktop/mapkitdemo/mapkitdemoViewController.xib
+cProcessPCH /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-dxcvvzwxtriirdghtpevwoncnwhr/mapkitdemo_Prefix.pch.gch mapkitdemo_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-auldxhroltakzcgxfopqedbihnso/mapkitdemo_Prefix.pch.gch mapkitdemo_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/main.o /Users/csscorp/Desktop/mapkitdemo/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/mapkitdemoAppDelegate.o /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/mapkitdemoViewController.o /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/main.o /Users/csscorp/Desktop/mapkitdemo/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/mapkitdemoAppDelegate.o /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/mapkitdemoViewController.o /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessProductPackaging "/Users/csscorp/Library/MobileDevice/Provisioning Profiles/E2F03B56-F497-4F77-BEBC-FFD3FE234E97.mobileprovision" /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/embedded.mobileprovision
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo.xcent
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC11B5300000000000D96F0
+t1287723859
+s890608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC11B4300000000000001D0
+t1287723843
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC11D4800000000000002FE
+t1287724360
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC11D62000000000029CFA0
+t1287724386
+s2740128
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.h
+c000000004FCE076500000000000001F2
+t1338902373
+s498
+i<UIKit/UIKit.h>
+
+N/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m
+c000000004FCE07650000000000000AA5
+t1338902373
+s2725
+i"mapkitdemoAppDelegate.h"
+i"mapkitdemoViewController.h"
+
+N/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.h
+c000000004FCE096900000000000002C7
+t1338902889
+s711
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m
+c000000004FCE09690000000000000AE5
+t1338902889
+s2789
+i"mapkitdemoViewController.h"
+
+N/Users/csscorp/Desktop/mapkitdemo/MainWindow.xib
+c000000004FCE07650000000000004E4D
+t1338902373
+s20045
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app
+t2
+s0
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app.dSYM
+t2
+s0
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/Info.plist
+t1338902890
+s793
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/MainWindow.nib
+t1338902897
+s1129
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/PkgInfo
+t1338902890
+s8
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/ResourceRules.plist
+t1338902890
+s485
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/embedded.mobileprovision
+t1338902905
+s7973
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/mapkitdemo
+t2
+s0
+
+N/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/mapkitdemoViewController.nib
+t1338902897
+s795
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/main.o
+t1338902905
+s6436
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/mapkitdemo
+t2
+s0
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/mapkitdemo.LinkFileList
+c000000004FCE09690000000000000184
+t1338902889
+s388
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/mapkitdemoAppDelegate.o
+t1338902905
+s51552
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/mapkitdemoViewController.o
+t2
+s0
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/main.o
+t1338902905
+s6420
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/mapkitdemo
+t2
+s0
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/mapkitdemo.LinkFileList
+c000000004FCE09690000000000000184
+t1338902889
+s388
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/mapkitdemoAppDelegate.o
+t1338902905
+s51472
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/mapkitdemoViewController.o
+t2
+s0
+
+N/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo.xcent
+t1338902905
+s426
+
+N/Users/csscorp/Desktop/mapkitdemo/main.m
+c000000004FCE0765000000000000016D
+t1338902373
+s365
+i<UIKit/UIKit.h>
+
+N/Users/csscorp/Desktop/mapkitdemo/mapkitdemoViewController.xib
+c000000004FCE07650000000000001A51
+t1338902373
+s6737
+
+N/Users/csscorp/Desktop/mapkitdemo/mapkitdemo_Prefix.pch
+c000000004FCE076500000000000000BD
+t1338902373
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/csscorp/Library/MobileDevice/Provisioning Profiles/E2F03B56-F497-4F77-BEBC-FFD3FE234E97.mobileprovision
+c000000004FCDC92A0000000000001F25
+t1338886442
+s7973
+
+N/var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-auldxhroltakzcgxfopqedbihnso/mapkitdemo_Prefix.pch.gch
+t1338902904
+s10446552
+
+N/var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-dxcvvzwxtriirdghtpevwoncnwhr/mapkitdemo_Prefix.pch.gch
+t1338902904
+s9983704
+
+Nmapkitdemo-Info.plist
+c000000004FCE0765000000000000038D
+t1338902373
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies360595689#360595690#0(0"0(0#1#0"2542186992#0"0#
+
+CCodeSign /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app
+r0
+
+CCompileC build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/main.o /Users/csscorp/Desktop/mapkitdemo/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s360595705.147604
+e360595705.453796
+r1
+xCompileC
+xbuild/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/main.o
+x/Users/csscorp/Desktop/mapkitdemo/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/csscorp/Desktop/mapkitdemo/main.m360595705#360595705#0(0"0(0#0#40"/Users/csscorp/Desktop/mapkitdemo/main.m2542186992#1729"    cd /Users/csscorp/Desktop/mapkitdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-generated-files.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-own-target-headers.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-all-target-headers.hmap -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-project-headers.hmap -F/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos -I/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/include -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources/armv6 -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources -include /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-dxcvvzwxtriirdghtpevwoncnwhr/mapkitdemo_Prefix.pch -c /Users/csscorp/Desktop/mapkitdemo/main.m -o /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/mapkitdemoAppDelegate.o /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s360595705.149761
+e360595705.656344
+r1
+xCompileC
+xbuild/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/mapkitdemoAppDelegate.o
+x/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m360595705#360595705#0(0"0(0#0#65"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m2542186992#1771"    cd /Users/csscorp/Desktop/mapkitdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-generated-files.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-own-target-headers.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-all-target-headers.hmap -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-project-headers.hmap -F/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos -I/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/include -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources/armv6 -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources -include /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-dxcvvzwxtriirdghtpevwoncnwhr/mapkitdemo_Prefix.pch -c /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m -o /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/mapkitdemoAppDelegate.o0#
+
+CCompileC build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/mapkitdemoViewController.o /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s360595705.453948
+e360595705.594942
+r0
+xCompileC
+xbuild/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/mapkitdemoViewController.o
+x/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController btnViewMap:]':
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:26: error: 'mapView' undeclared (first use in this function)
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:26: error: (Each undeclared identifier is reported only once
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:26: error: for each function it appears in.)
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController viewDidLoad]':
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:34: error: 'mapView' undeclared (first use in this function)
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController locationManager:didUpdateToLocation:fromLocation:]':
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:58: error: 'mapView' undeclared (first use in this function)
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController dealloc]':
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:97: error: 'mapView' undeclared (first use in this function)
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: At top level:
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'accuracyTextField' requires method '-accuracyTextField' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'accuracyTextField' requires the method 'setAccuracyTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'latitudeTextField' requires method '-latitudeTextField' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'latitudeTextField' requires the method 'setLatitudeTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'longitudeTextField' requires method '-longitudeTextField' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'longitudeTextField' requires the method 'setLongitudeTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@76"Compile /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595705#360595705#0(2763"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController btnViewMap:]':/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:26: error: 'mapView' undeclared (first use in this function)/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:26: error: (Each undeclared identifier is reported only once/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:26: error: for each function it appears in.)/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController viewDidLoad]':/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:34: error: 'mapView' undeclared (first use in this function)/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController locationManager:didUpdateToLocation:fromLocation:]':/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:58: error: 'mapView' undeclared (first use in this function)/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController dealloc]':/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:97: error: 'mapView' undeclared (first use in this function)/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: At top level:/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'accuracyTextField' requires method '-accuracyTextField' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'accuracyTextField' requires the method 'setAccuracyTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'latitudeTextField' requires method '-latitudeTextField' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'latitudeTextField' requires the method 'setLatitudeTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'longitudeTextField' requires method '-longitudeTextField' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'longitudeTextField' requires the method 'setLongitudeTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation11(4@49"'mapView' undeclared (first use in this function)360595705#125#130#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#26#0#26#0#43"'*' undeclared (first use in this function)0(4@49"'mapView' undeclared (first use in this function)360595705#624#130#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#34#0#34#0#43"'*' undeclared (first use in this function)0(4@49"'mapView' undeclared (first use in this function)360595705#917#130#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#58#0#58#0#43"'*' undeclared (first use in this function)0(4@49"'mapView' undeclared (first use in this function)360595705#1168#130#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#97#0#97#0#43"'*' undeclared (first use in this function)0(23@13"At top level:360595705#1298#84#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#0#0#0#0#0"0(22@142"Property 'accuracyTextField' requires method '-accuracyTextField' to be defined - use @synthesize, @dynamic or provide a method implementation360595705#1382#226#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#106#0#106#0#0"0(22@149"Property 'accuracyTextField' requires the method 'setAccuracyTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation360595705#1608#233#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#106#0#106#0#0"0(22@142"Property 'latitudeTextField' requires method '-latitudeTextField' to be defined - use @synthesize, @dynamic or provide a method implementation360595705#1841#226#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#106#0#106#0#0"0(22@149"Property 'latitudeTextField' requires the method 'setLatitudeTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation360595705#2067#233#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#106#0#106#0#0"0(22@144"Property 'longitudeTextField' requires method '-longitudeTextField' to be defined - use @synthesize, @dynamic or provide a method implementation360595705#2300#228#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#106#0#106#0#0"0(22@151"Property 'longitudeTextField' requires the method 'setLongitudeTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation360595705#2528#235#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#106#0#106#0#0"0(0#0#68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m2542186992#1777"    cd /Users/csscorp/Desktop/mapkitdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-generated-files.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-own-target-headers.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-all-target-headers.hmap -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-project-headers.hmap -F/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos -I/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/include -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources/armv6 -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources -include /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-dxcvvzwxtriirdghtpevwoncnwhr/mapkitdemo_Prefix.pch -c /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m -o /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/mapkitdemoViewController.o1#
+
+CCompileC build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/main.o /Users/csscorp/Desktop/mapkitdemo/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s360595705.595301
+e360595705.739389
+r1
+xCompileC
+xbuild/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/main.o
+x/Users/csscorp/Desktop/mapkitdemo/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/csscorp/Desktop/mapkitdemo/main.m360595705#360595705#0(0"0(0#0#40"/Users/csscorp/Desktop/mapkitdemo/main.m2542186992#1729"    cd /Users/csscorp/Desktop/mapkitdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-generated-files.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-own-target-headers.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-all-target-headers.hmap -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-project-headers.hmap -F/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos -I/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/include -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources/armv7 -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources -include /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-auldxhroltakzcgxfopqedbihnso/mapkitdemo_Prefix.pch -c /Users/csscorp/Desktop/mapkitdemo/main.m -o /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/mapkitdemoAppDelegate.o /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s360595705.656501
+e360595705.837709
+r1
+xCompileC
+xbuild/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/mapkitdemoAppDelegate.o
+x/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m360595705#360595705#0(0"0(0#0#65"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m2542186992#1771"    cd /Users/csscorp/Desktop/mapkitdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-generated-files.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-own-target-headers.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-all-target-headers.hmap -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-project-headers.hmap -F/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos -I/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/include -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources/armv7 -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources -include /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-auldxhroltakzcgxfopqedbihnso/mapkitdemo_Prefix.pch -c /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoAppDelegate.m -o /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/mapkitdemoAppDelegate.o0#
+
+CCompileC build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/mapkitdemoViewController.o /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s360595705.739547
+e360595705.891014
+r0
+xCompileC
+xbuild/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/mapkitdemoViewController.o
+x/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController btnViewMap:]':
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:26: error: 'mapView' undeclared (first use in this function)
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:26: error: (Each undeclared identifier is reported only once
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:26: error: for each function it appears in.)
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController viewDidLoad]':
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:34: error: 'mapView' undeclared (first use in this function)
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController locationManager:didUpdateToLocation:fromLocation:]':
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:58: error: 'mapView' undeclared (first use in this function)
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController dealloc]':
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:97: error: 'mapView' undeclared (first use in this function)
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: At top level:
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'accuracyTextField' requires method '-accuracyTextField' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'accuracyTextField' requires the method 'setAccuracyTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'latitudeTextField' requires method '-latitudeTextField' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'latitudeTextField' requires the method 'setLatitudeTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'longitudeTextField' requires method '-longitudeTextField' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'longitudeTextField' requires the method 'setLongitudeTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@76"Compile /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595705#360595705#0(2763"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController btnViewMap:]':/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:26: error: 'mapView' undeclared (first use in this function)/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:26: error: (Each undeclared identifier is reported only once/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:26: error: for each function it appears in.)/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController viewDidLoad]':/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:34: error: 'mapView' undeclared (first use in this function)/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController locationManager:didUpdateToLocation:fromLocation:]':/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:58: error: 'mapView' undeclared (first use in this function)/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: In function '-[mapkitdemoViewController dealloc]':/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:97: error: 'mapView' undeclared (first use in this function)/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m: At top level:/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'accuracyTextField' requires method '-accuracyTextField' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'accuracyTextField' requires the method 'setAccuracyTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'latitudeTextField' requires method '-latitudeTextField' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'latitudeTextField' requires the method 'setLatitudeTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'longitudeTextField' requires method '-longitudeTextField' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m:106: warning: property 'longitudeTextField' requires the method 'setLongitudeTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation11(4@49"'mapView' undeclared (first use in this function)360595705#125#130#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#26#0#26#0#43"'*' undeclared (first use in this function)0(4@49"'mapView' undeclared (first use in this function)360595705#624#130#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#34#0#34#0#43"'*' undeclared (first use in this function)0(4@49"'mapView' undeclared (first use in this function)360595705#917#130#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#58#0#58#0#43"'*' undeclared (first use in this function)0(4@49"'mapView' undeclared (first use in this function)360595705#1168#130#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#97#0#97#0#43"'*' undeclared (first use in this function)0(23@13"At top level:360595705#1298#84#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#0#0#0#0#0"0(22@142"Property 'accuracyTextField' requires method '-accuracyTextField' to be defined - use @synthesize, @dynamic or provide a method implementation360595705#1382#226#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#106#0#106#0#0"0(22@149"Property 'accuracyTextField' requires the method 'setAccuracyTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation360595705#1608#233#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#106#0#106#0#0"0(22@142"Property 'latitudeTextField' requires method '-latitudeTextField' to be defined - use @synthesize, @dynamic or provide a method implementation360595705#1841#226#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#106#0#106#0#0"0(22@149"Property 'latitudeTextField' requires the method 'setLatitudeTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation360595705#2067#233#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#106#0#106#0#0"0(22@144"Property 'longitudeTextField' requires method '-longitudeTextField' to be defined - use @synthesize, @dynamic or provide a method implementation360595705#2300#228#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#106#0#106#0#0"0(22@151"Property 'longitudeTextField' requires the method 'setLongitudeTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation360595705#2528#235#0(6@68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m360595689#106#0#106#0#0"0(0#0#68"/Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m2542186992#1777"    cd /Users/csscorp/Desktop/mapkitdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-generated-files.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-own-target-headers.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-all-target-headers.hmap -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-project-headers.hmap -F/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos -I/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/include -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources/armv7 -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources -include /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-auldxhroltakzcgxfopqedbihnso/mapkitdemo_Prefix.pch -c /Users/csscorp/Desktop/mapkitdemo/Classes/mapkitdemoViewController.m -o /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/mapkitdemoViewController.o1#
+
+CCompileXIB /Users/csscorp/Desktop/mapkitdemo/MainWindow.xib
+s360595690.274893
+e360595697.949263
+r1
+xCompileXIB
+x/Users/csscorp/Desktop/mapkitdemo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib360595690#360595697#0(0"0(0#0#48"/Users/csscorp/Desktop/mapkitdemo/MainWindow.xib2542186992#530"    cd /Users/csscorp/Desktop/mapkitdemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/MainWindow.nib /Users/csscorp/Desktop/mapkitdemo/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/csscorp/Desktop/mapkitdemo/mapkitdemoViewController.xib
+s360595690.276135
+e360595697.949640
+r1
+xCompileXIB
+x/Users/csscorp/Desktop/mapkitdemo/mapkitdemoViewController.xib
+lSLF07#2@39"CompileXIB mapkitdemoViewController.xib360595690#360595697#0(0"0(0#0#62"/Users/csscorp/Desktop/mapkitdemo/mapkitdemoViewController.xib2542186992#558"    cd /Users/csscorp/Desktop/mapkitdemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/mapkitdemoViewController.nib /Users/csscorp/Desktop/mapkitdemo/mapkitdemoViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCpResource build/Debug-iphoneos/mapkitdemo.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s360595690.127784
+e360595690.274752
+r1
+xCpResource
+xbuild/Debug-iphoneos/mapkitdemo.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist360595690#360595690#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist2542186992#487"    cd /Users/csscorp/Desktop/mapkitdemo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app0#
+
+CCreateUniversalBinary /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/mapkitdemo normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app.dSYM /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/mapkitdemo
+r0
+
+CLd /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv6/mapkitdemo normal armv6
+r0
+
+CLd /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/Objects-normal/armv7/mapkitdemo normal armv7
+r0
+
+CProcessInfoPlistFile /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/Info.plist mapkitdemo-Info.plist
+s360595690.185965
+e360595690.200782
+r1
+xProcessInfoPlistFile
+x/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/Info.plist
+xmapkitdemo-Info.plist
+lSLF07#2@29"Process mapkitdemo-Info.plist360595690#360595690#0(0"0(0#0#55"/Users/csscorp/Desktop/mapkitdemo/mapkitdemo-Info.plist2542186992#554"    cd /Users/csscorp/Desktop/mapkitdemo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility mapkitdemo-Info.plist -genpkginfo /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/ResourceRules.plist -o /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/Info.plist0#
+
+CProcessPCH /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-auldxhroltakzcgxfopqedbihnso/mapkitdemo_Prefix.pch.gch mapkitdemo_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s360595697.974658
+e360595704.506199
+r1
+xProcessPCH
+x/var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-auldxhroltakzcgxfopqedbihnso/mapkitdemo_Prefix.pch.gch
+xmapkitdemo_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile mapkitdemo_Prefix.pch360595697#360595704#0(0"0(0#0#55"/Users/csscorp/Desktop/mapkitdemo/mapkitdemo_Prefix.pch2542186992#1629"    cd /Users/csscorp/Desktop/mapkitdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-generated-files.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-own-target-headers.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-all-target-headers.hmap -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-project-headers.hmap -F/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos -I/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/include -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources/armv7 -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources -c /Users/csscorp/Desktop/mapkitdemo/mapkitdemo_Prefix.pch -o /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-auldxhroltakzcgxfopqedbihnso/mapkitdemo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-dxcvvzwxtriirdghtpevwoncnwhr/mapkitdemo_Prefix.pch.gch mapkitdemo_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s360595697.949797
+e360595705.147323
+r1
+xProcessPCH
+x/var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-dxcvvzwxtriirdghtpevwoncnwhr/mapkitdemo_Prefix.pch.gch
+xmapkitdemo_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile mapkitdemo_Prefix.pch360595697#360595705#0(0"0(0#0#55"/Users/csscorp/Desktop/mapkitdemo/mapkitdemo_Prefix.pch2542186992#1629"    cd /Users/csscorp/Desktop/mapkitdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-generated-files.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-own-target-headers.hmap -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-all-target-headers.hmap -iquote /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo-project-headers.hmap -F/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos -I/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/include -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources/armv6 -I/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/DerivedSources -c /Users/csscorp/Desktop/mapkitdemo/mapkitdemo_Prefix.pch -o /var/folders/N6/N6XMPoLQGjW-kzvy6PMglU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mapkitdemo_Prefix-dxcvvzwxtriirdghtpevwoncnwhr/mapkitdemo_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/csscorp/Library/MobileDevice/Provisioning Profiles/E2F03B56-F497-4F77-BEBC-FFD3FE234E97.mobileprovision" /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/embedded.mobileprovision
+s360595705.891177
+e360595705.949803
+r1
+xProcessProductPackaging
+x/Users/csscorp/Library/MobileDevice/Provisioning Profiles/E2F03B56-F497-4F77-BEBC-FFD3FE234E97.mobileprovision
+x/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/csscorp/Library/MobileDevice/Provisioning Profiles/E2F03B56-F497-4F77-BEBC-FFD3FE234E97.mobileprovision" build/Debug-iphoneos/mapkitdemo.app/embedded.mobileprovision360595705#360595705#0(0"0(0#0#94"/Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/embedded.mobileprovision2542186992#418"    cd /Users/csscorp/Desktop/mapkitdemo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/csscorp/Library/MobileDevice/Provisioning Profiles/E2F03B56-F497-4F77-BEBC-FFD3FE234E97.mobileprovision" -o /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo.xcent
+s360595705.949934
+e360595705.998316
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo.xcent
+lSLF07#2@184"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo.xcent360595705#360595706#0(0"0(0#0#105"/Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo.xcent2542186992#431"    cd /Users/csscorp/Desktop/mapkitdemo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/csscorp/Desktop/mapkitdemo/build/mapkitdemo.build/Debug-iphoneos/mapkitdemo.build/mapkitdemo.xcent0#
+
+CTouch /Users/csscorp/Desktop/mapkitdemo/build/Debug-iphoneos/mapkitdemo.app
+r0
+

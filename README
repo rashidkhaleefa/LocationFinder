@@ -1,0 +1,1 @@
+Mapkitdemo is a sample application that use the Mapkit and CoreLocation frameworks to find the current location of user. This app displays users current locations latitude, longitude, altitude and speed values. Also the   the location is displayed in the MKMapview in the screen. 
